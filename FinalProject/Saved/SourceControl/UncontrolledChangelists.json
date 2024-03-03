@@ -6,6 +6,7 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/UnrealE/Projects/MaelstromUE/FinalProject/Content/Levels/Ship.umap",
+				"E:/UnrealE/Projects/MaelstromUE/FinalProject/Content/Meshes/Box_Brush18_StaticMesh.uasset",
 				"C:/Users/Ryan/Desktop/UCF Courses/DIG 4715C - Game Production/Final Project - Into the Maelstrom/MaelstromUE/FinalProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"C:/Users/Ryan/Desktop/UCF Courses/DIG 4715C - Game Production/Final Project - Into the Maelstrom/MaelstromUE/FinalProject/Content/BP/BP_GameMode.uasset",
 				"C:/Users/Ryan/Desktop/UCF Courses/DIG 4715C - Game Production/Final Project - Into the Maelstrom/MaelstromUE/FinalProject/Content/Levels/_Base_HLOD0_Instancing.uasset",
