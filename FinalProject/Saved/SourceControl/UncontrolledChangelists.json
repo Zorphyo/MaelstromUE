@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/Barrel_no_texture.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/lambert3.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/Crate_no_texture.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/Pipes_no_texture.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/standardSurface1.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/Valve_no_texture.uasset",
+				"C:/Users/jtabe/OneDrive/Desktop/Into the Maelstrom Game/MaelstromUE/FinalProject/Content/Meshes/Props/Key_no_texture.uasset",
 				"E:/UnrealE/Projects/MaelstromUE/FinalProject/Content/Levels/Ship.umap",
 				"E:/UnrealE/Projects/MaelstromUE/FinalProject/Content/Meshes/Box_Brush18_StaticMesh.uasset",
 				"E:/UnrealE/Projects/MaelstromUE/FinalProject/Content/Meshes/Ship_StaticMesh.uasset",
